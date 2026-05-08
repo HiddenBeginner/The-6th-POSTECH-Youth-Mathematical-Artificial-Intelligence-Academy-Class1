@@ -1,4 +1,4 @@
-# 6회 포스텍청소년수리인공지능아카데미(2반)
+# 6회 포스텍청소년수리인공지능아카데미(1반)
 <img width="422" height="596" alt="image" src="https://github.com/user-attachments/assets/78f28219-2814-4b2e-b359-6d9877fdae8b" />
 
 
@@ -10,7 +10,7 @@
 |**운영**| 포항공과대학교 수리데이터과학 연구소|
 |**대상**| 포항시 관내 고등학생  
 |**기간**| 2026.05.09 ~ 2026.05.30 (총 4주/3시간)|  
-|**장소**| 포항공과대학교 수리과학관 1층 강의실|
+|**장소**| 포항공과대학교 수리과학관 4층 강의실|
 
 |총 참석인원|50명 (*운영인원 제외)|
 |---|---|
@@ -18,32 +18,24 @@
 |2반|33명(고1&중3반)|
 
 
-## 운영진 소개(2반)
+## 운영진 소개(1반)
 | 담당 |이름|소속| 연락처 |
 |---|---|---|---|
 |교육 책임|정재훈 교수님|수학과|jung153@postech.ac.kr|
 |행정 및 운영|곽주영 선생님|수학과|juyoungkwak0@postech.ac.kr|
-|강사|이지호|인공지능대학원|jihlee@postech.ac.kr|
-|강사|염시진|인공지능대학원|yeomsijin@postech.ac.kr|
-|강사|박해룡|물리학과|phrphr@postech.ac.kr|
-|강사|임재형|인공지능대학원|jaehyunglim@postech.ac.kr|
-|강사|김병규|컴퓨터공학과|qudrb6989@postech.ac.kr|
-|조교|한승완|수학과|han97@postech.ac.kr|
-|조교|이정민|인공지능대학원|jungmin.lee@postech.ac.kr|
-|조교|전병연|인공지능대학원|byungyunjeon@postech.ac.kr|
-
-
-
-
-
-
+|강사|이동진|인공지능대학원|dongjinlee@postech.ac.kr|
+|강사|김우주|컴퓨터공학과|kimuj0103@postech.ac.kr|
+|강사|최지훈|산업경영공학과|chb2701@postech.ac.kr|
+|강사|이성헌|인공지능대학원|shlee0125@postech.ac.kr|
+|강사|박광혁|인공지능대학원|pkh0219@postech.ac.kr|
+|조교|Jiaxi Gu|수학과|jiaxigu@postech.ac.kr|
 
 ## 강의 계획
 
 | 날짜 |차시|강사| 강의자료 |
 |---|---|---|---|
-| [Day1]  2026.05.09 |1차시|염시진|인공지능과 함수 
-| |2차시|박해룡|[파이썬 실습](./PYMAIA5_day1_파이썬_실습.ipynb),[선형회귀 실습](./PYMAIA5_day1_선형회귀_실습.ipynb)|
+| [Day1]  2026.05.09 |1차시|김우주|인공지능과 함수 
+| |2차시|이동진|[파이썬 실습](./PYMAIA6_day1_파이썬_실습.ipynb),[선형회귀 실습](./PYMAIA6_day2_선형회귀_실습.ipynb)|
 | [Day2] 2026.05.16  |1차시|||
 |   |2차시|||
 | [Day3] 2026.05.23 |1차시||| 
