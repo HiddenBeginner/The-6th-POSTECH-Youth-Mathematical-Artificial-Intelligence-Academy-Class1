@@ -39,9 +39,9 @@
 | [Day2] 2026.05.16  |1차시|최지훈|다층퍼셉트론 (MLP)|
 |   |2차시|이동진|[선형회귀 실습](./PYMAIA6_day2_선형회귀_실습.ipynb), [MLP 실습](./PYMAIA6_day2_MLP_실습.ipynb)|
 | [Day3] 2026.05.23 |1차시|김우주|합성곱신경망 (CNN)| 
-|  |2차시|이동진|[CNN실습](./PYMAIA6_day3_CNN_실습.ipynb)| 
-| [Day4] 2026.05.30|1차시|||
-| |2차시|||
+|  |2차시|이동진|[CNN 실습](./PYMAIA6_day3_CNN_실습.ipynb)| 
+| [Day4] 2026.05.30|1차시|최지훈|자연어 처리 (NLP)|
+| |2차시|이동진|[NLP 실습](./PYMAIA6_day4_NLP_실습.ipynb)|
 
 [<img src="https://github.com/MINDS-edu/The-4th-POSTECH-Youth-Mathematical-Artificial-Intelligence-Academy-Public/blob/main/warehouse/1_%ED%8F%AC%ED%95%AD%EC%8B%9CCI_%EA%B8%B0%EB%B3%B8%ED%98%95.jpg" style="height:auto; max-width:100%;">](https://www.pohang.go.kr/main.do)
 [<img src="https://wsrv.nl/?url=https://minds.postech.ac.kr/_res/postech/minds2/img/cropped-logo4-wide-1.png" style="height:auto; max-width:100%;">](https://minds.postech.ac.kr/minds2/index.do)
