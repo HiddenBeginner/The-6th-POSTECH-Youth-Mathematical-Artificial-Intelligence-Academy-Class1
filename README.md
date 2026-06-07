@@ -34,14 +34,14 @@
 
 | 날짜 |차시|강사| 강의자료 |
 |---|---|---|---|
-| [Day1]  2026.05.09 |1차시|김우주|인공지능과 함수 
-| |2차시|이동진|[파이썬 실습](./PYMAIA6_day1_파이썬_실습.ipynb)|
-| [Day2] 2026.05.16  |1차시|최지훈|다층퍼셉트론 (MLP)|
-|   |2차시|이동진|[선형회귀 실습](./PYMAIA6_day2_선형회귀_실습.ipynb), [MLP 실습](./PYMAIA6_day2_MLP_실습.ipynb)|
-| [Day3] 2026.05.23 |1차시|김우주|합성곱신경망 (CNN)| 
-|  |2차시|이동진|[CNN 실습](./PYMAIA6_day3_CNN_실습.ipynb)| 
-| [Day4] 2026.05.30|1차시|최지훈|자연어 처리 (NLP)|
-| |2차시|이동진|[NLP 실습](./PYMAIA6_day4_NLP_실습.ipynb)|
+| [Day1]  2026.05.09 |1차시|김우주|[인공지능과 함수](PYMAIA6_day1_1교시_인공지능과_함수.pdf)
+| |2차시|이동진|[파이썬 실습](./PYMAIA6_day1_2교시_파이썬_실습.ipynb)|
+| [Day2] 2026.05.16  |1차시|최지훈|[다층퍼셉트론 (MLP)](PYMAIA6_day2_1교시_MLP주차.pptx)|
+|   |2차시|이동진|[선형회귀 실습](./PYMAIA6_day2_2교시_선형회귀_실습.ipynb), [MLP 실습](./PYMAIA6_day2_2교시_MLP_실습.ipynb)|
+| [Day3] 2026.05.23 |1차시|김우주|[합성곱신경망 (CNN)](PYMAIA6_day3_1교시_CNN.pptx)| 
+|  |2차시|이동진|[CNN 실습](./PYMAIA6_day3_2교시_CNN_실습.ipynb)| 
+| [Day4] 2026.05.30|1차시|최지훈|[자연어 처리 (NLP)](PYMAIA6_day4_1교시_NLP.pptx)|
+| |2차시|이동진|[NLP 실습](./PYMAIA6_day4_2교시_NLP_실습.ipynb)|
 
 [<img src="https://github.com/MINDS-edu/The-4th-POSTECH-Youth-Mathematical-Artificial-Intelligence-Academy-Public/blob/main/warehouse/1_%ED%8F%AC%ED%95%AD%EC%8B%9CCI_%EA%B8%B0%EB%B3%B8%ED%98%95.jpg" style="height:auto; max-width:100%;">](https://www.pohang.go.kr/main.do)
 [<img src="https://wsrv.nl/?url=https://minds.postech.ac.kr/_res/postech/minds2/img/cropped-logo4-wide-1.png" style="height:auto; max-width:100%;">](https://minds.postech.ac.kr/minds2/index.do)
